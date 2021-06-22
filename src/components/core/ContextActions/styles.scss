@@ -1,0 +1,11 @@
+@import "../../../styles/index.scss";
+
+.ContextActions {
+  padding-left: $gap16;
+  padding-right: $gap16;
+}
+
+.Action {
+  color: $palettePrimary;
+  padding: $gap8 !important;
+}

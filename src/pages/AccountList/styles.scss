@@ -1,0 +1,7 @@
+.AccountList {
+  display: grid;
+  width: 100%;
+  grid-gap: 1.6rem;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-auto-rows: max-content;
+}

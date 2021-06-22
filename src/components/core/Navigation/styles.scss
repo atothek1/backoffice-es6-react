@@ -1,0 +1,36 @@
+@import "../../../styles/index.scss";
+
+.NavigationElement {
+  @include reset-link;
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  padding: .8rem 0;
+  font-size: 1.6rem;
+  transition: all 0.25s ease-in-out;
+  white-space: nowrap;
+  &:hover {
+    padding-left: $gap8;
+  }
+  > span {
+    position: absolute;
+    margin-left: $gap24;
+  }
+}
+
+.subNavigation {
+  height: auto;
+  padding-left: $gap16;
+}
+
+.icon {
+  width: $gap24 !important;
+}
+.blankIcon {
+  visibility: hidden;
+  width: $gap8 !important;
+}
+.active {
+  font-weight: 900;
+}

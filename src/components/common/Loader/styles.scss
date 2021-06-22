@@ -1,0 +1,20 @@
+@import "../../../styles/index.scss";
+
+.Loader {
+  font-size: $fontSizeH2;
+  > p {
+    font-size: $fontSizeH3;
+  }
+  > svg {
+    margin-top: $gap8;
+    transition: 3s;
+    transform-origin: 50% 50%;
+    animation: spin .75s ease-in-out infinite;
+  }
+}
+
+@keyframes spin {
+  100% { 
+    transform: rotate(360deg); 
+  } 
+}

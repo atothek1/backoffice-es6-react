@@ -1,0 +1,2841 @@
+{
+  "accounts": {
+    "edges": [
+      {
+        "node": {
+          "id": "2411",
+          "name": "test ",
+          "oldNumber": null,
+          "number": "11-2411",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "360345",
+            "uuid": "2891c190-299c-11eb-bd07-194506c78ea6",
+            "filename": "bild_comicbiene_kommentarzeile.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "255820",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "",
+            "city": "",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCYGROUP",
+            "name": "Agenturgruppe",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": {
+            "name": "1-2-3 Brille GmbH",
+            "id": "1397",
+            "logo": {
+              "id": "82736",
+              "uuid": "c40e9e10-bab5-11e9-89d2-2fac4d96e3ee",
+              "filename": "1_0-logo.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLERCLIENT",
+              "name": "Resellerkunde",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2410",
+          "name": "Adler Modemärkte AG",
+          "oldNumber": null,
+          "number": "11-2410",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "360024",
+            "uuid": "be42eb60-24fb-11eb-8bb4-9dcec1edce60",
+            "filename": "2000px-adler_modemaerkte_201x_logo.svg.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "255783",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "63808",
+            "city": "Haibach",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "DIRECTCLIENT",
+            "name": "Direktkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "10",
+            "name": "Bekleidung",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2405",
+          "name": "Test Kunde IT",
+          "oldNumber": null,
+          "number": "11-2405",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "359309",
+            "uuid": "69b4c650-1938-11eb-b957-f747161806ba",
+            "filename": "bildschirmfoto-2020-10-21-um-10.16.10.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "255316",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "10178",
+            "city": "Alexanderplatz 1",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "DIRECTCLIENT",
+            "name": "Direktkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "4",
+            "name": "IT / Technologie",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2404",
+          "name": "DS Automobiles",
+          "oldNumber": null,
+          "number": "11-2404",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "358679",
+            "uuid": "b5f514c0-0fbf-11eb-8373-3b188ff7ab7c",
+            "filename": "logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "255269",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "65423",
+            "city": "Rüsselsheim",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCYCLIENT",
+            "name": "Agenturkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "1",
+            "name": "Automotive",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2403",
+          "name": "Test",
+          "oldNumber": null,
+          "number": "11-2403",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "357043",
+            "uuid": "ff64de30-024d-11eb-89ba-a16079a81388",
+            "filename": "faktor-eleven_logo-1024x193.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "254547",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "",
+            "city": "",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCY",
+            "name": "Agentur",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": {
+            "name": "Alex Agentur Test",
+            "id": "2393",
+            "logo": {
+              "id": "356745",
+              "uuid": "c7638960-fe41-11ea-b1ae-a344101c8e9a",
+              "filename": "robot-grab.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "AGENCYGROUP",
+              "name": "Agenturgruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2395",
+          "name": "Alex Agenturkunde",
+          "oldNumber": null,
+          "number": "11-2395",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "357136",
+            "uuid": "af40c3f0-03c5-11eb-ad5b-3df9979cce37",
+            "filename": "3d-glasses.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "254527",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "35463",
+            "city": "Fernwald-Annerod",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCYCLIENT",
+            "name": "Agenturkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "2",
+            "name": "Dienstleistung",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "Alex Test Agentur Link",
+            "id": "2394",
+            "logo": {
+              "id": "356746",
+              "uuid": "d8118e60-fe41-11ea-b1ae-a344101c8e9a",
+              "filename": "fire-gem.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "AGENCY",
+              "name": "Agentur",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2394",
+          "name": "Alex Test Agentur Link",
+          "oldNumber": null,
+          "number": "11-2394",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "356746",
+            "uuid": "d8118e60-fe41-11ea-b1ae-a344101c8e9a",
+            "filename": "fire-gem.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "254526",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "",
+            "city": "",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCY",
+            "name": "Agentur",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": {
+            "name": "Alex Agentur Test",
+            "id": "2393",
+            "logo": {
+              "id": "356745",
+              "uuid": "c7638960-fe41-11ea-b1ae-a344101c8e9a",
+              "filename": "robot-grab.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "AGENCYGROUP",
+              "name": "Agenturgruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2393",
+          "name": "Alex Agentur Test",
+          "oldNumber": null,
+          "number": "11-2393",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "356745",
+            "uuid": "c7638960-fe41-11ea-b1ae-a344101c8e9a",
+            "filename": "robot-grab.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "254525",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "",
+            "city": "",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCYGROUP",
+            "name": "Agenturgruppe",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2388",
+          "name": "Alex Font Test",
+          "oldNumber": null,
+          "number": "11-2388",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "356464",
+            "uuid": "c86ac310-f373-11ea-aee1-d382e5d30ee5",
+            "filename": "logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "244399",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "9357",
+            "city": "Bremen",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "DIRECTCLIENT",
+            "name": "Direktkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "1",
+            "name": "Automotive",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2387",
+          "name": "Opel Automobile GmbH (DK)",
+          "oldNumber": "11-169",
+          "number": "11-2387",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": "(GG)",
+          "isBookable": false,
+          "logo": {
+            "id": "303635",
+            "uuid": "349d6530-905d-11ea-8b04-bdc68af93a8a",
+            "filename": "69794497_2679403532104953_2484428234712678400_o.jpg",
+            "contentType": "image/jpeg",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "243163",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "65423 ",
+            "city": "Rüsselsheim am Main",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLERCLIENT",
+            "name": "Resellerkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "1",
+            "name": "Automotive",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "Agentur F11",
+            "id": "2384",
+            "logo": {
+              "id": "345220",
+              "uuid": "5ca978d0-cdb0-11ea-8438-bb9d022978d0",
+              "filename": "a-closer-look-at-the-blue-platypus-temtem-platypet_feature.jpg",
+              "contentType": "image/jpeg",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "AGENCY",
+              "name": "Agentur",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [
+            {
+              "id": "1035",
+              "name": "Opel Automobile GmbH",
+              "accountType": {
+                "id": "AGENCYCLIENT",
+                "name": "Agenturkunde",
+                "__typename": "AccountObject"
+              },
+              "parent": {
+                "id": "1769",
+                "name": "MediaCom Agentur für Media-Beratung GmbH",
+                "logo": {
+                  "id": "252898",
+                  "uuid": "2e5128b0-54c6-11ea-8202-0f4b80c2dd28",
+                  "__typename": "Media"
+                },
+                "__typename": "Account"
+              },
+              "__typename": "Account"
+            },
+            {
+              "id": "2194",
+              "name": "Opel Automobile GmbH (DK)",
+              "accountType": {
+                "id": "DIRECTCLIENT",
+                "name": "Direktkunde",
+                "__typename": "AccountObject"
+              },
+              "parent": {
+                "id": "2194",
+                "name": "Opel Automobile GmbH (DK)",
+                "logo": {
+                  "id": "303635",
+                  "uuid": "349d6530-905d-11ea-8b04-bdc68af93a8a",
+                  "__typename": "Media"
+                },
+                "__typename": "Account"
+              },
+              "__typename": "Account"
+            },
+            {
+              "id": "2295",
+              "name": "Opel Automobile GmbH",
+              "accountType": {
+                "id": "AGENCYCLIENT",
+                "name": "Agenturkunde",
+                "__typename": "AccountObject"
+              },
+              "parent": {
+                "id": "1773",
+                "name": "moccamedia AG",
+                "logo": {
+                  "id": "298176",
+                  "uuid": "c5fc7440-856c-11ea-bc20-cfe009190e22",
+                  "__typename": "Media"
+                },
+                "__typename": "Account"
+              },
+              "__typename": "Account"
+            }
+          ],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2385",
+          "name": "IT Agenturkunde",
+          "oldNumber": null,
+          "number": "11-2385",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "345221",
+            "uuid": "e82ec9a0-cdb0-11ea-8438-bb9d022978d0",
+            "filename": "img_20170409_200344.jpg",
+            "contentType": "image/jpeg",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "243160",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "35410",
+            "city": "Hungen",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCYCLIENT",
+            "name": "Agenturkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "4",
+            "name": "IT / Technologie",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "Agentur F11",
+            "id": "2384",
+            "logo": {
+              "id": "345220",
+              "uuid": "5ca978d0-cdb0-11ea-8438-bb9d022978d0",
+              "filename": "a-closer-look-at-the-blue-platypus-temtem-platypet_feature.jpg",
+              "contentType": "image/jpeg",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "AGENCY",
+              "name": "Agentur",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2384",
+          "name": "Agentur F11",
+          "oldNumber": null,
+          "number": "11-2384",
+          "isSales": null,
+          "isReference": true,
+          "locationshortcut": "FW",
+          "isBookable": true,
+          "logo": {
+            "id": "345220",
+            "uuid": "5ca978d0-cdb0-11ea-8438-bb9d022978d0",
+            "filename": "a-closer-look-at-the-blue-platypus-temtem-platypet_feature.jpg",
+            "contentType": "image/jpeg",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "243159",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "35410",
+            "city": "Hungen",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCY",
+            "name": "Agentur",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2383",
+          "name": "Test",
+          "oldNumber": null,
+          "number": "11-2383",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "344204",
+            "uuid": "9bca40b0-b6c4-11ea-9501-ef29df45d3bf",
+            "filename": "hoertec.bmp",
+            "contentType": "image/bmp",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "243149",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "1234",
+            "city": "Test",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCYCLIENT",
+            "name": "Agenturkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "1",
+            "name": "Automotive",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "Artefact Germany GmbH",
+            "id": "2075",
+            "logo": {
+              "id": "301590",
+              "uuid": "7524a9c0-8ddc-11ea-8b04-bdc68af93a8a",
+              "filename": "864.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "AGENCY",
+              "name": "Agentur",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [
+            {
+              "id": "2370",
+              "name": "Test",
+              "accountType": {
+                "id": "AGENCYCLIENT",
+                "name": "Agenturkunde",
+                "__typename": "AccountObject"
+              },
+              "parent": {
+                "id": "2333",
+                "name": "GroupM Competence Center GmbH",
+                "logo": {
+                  "id": "341035",
+                  "uuid": "215c6090-a988-11ea-82d3-b737ea56501e",
+                  "__typename": "Media"
+                },
+                "__typename": "Account"
+              },
+              "__typename": "Account"
+            }
+          ],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2364",
+          "name": "IKEA Deutschland GmbH & Co. KG",
+          "oldNumber": null,
+          "number": "11-2364",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "22525",
+            "uuid": "47c64ce0-6d8b-11e8-a73c-09864414c871",
+            "filename": "2000px-Ikea_logo.svg.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "242437",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "65719 ",
+            "city": "Hofheim-Wallau",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCYCLIENT",
+            "name": "Agenturkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "9",
+            "name": "Möbel",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "add2 GmbH",
+            "id": "2016",
+            "logo": {
+              "id": "300048",
+              "uuid": "f7eacd70-8a18-11ea-9caa-07c1f89618ef",
+              "filename": "10672329_785230384833365_6067421268397490938_n.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "AGENCY",
+              "name": "Agentur",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2349",
+          "name": "Factor Eleven GmbH",
+          "oldNumber": null,
+          "number": "11-2349",
+          "isSales": null,
+          "isReference": true,
+          "locationshortcut": null,
+          "isBookable": true,
+          "logo": {
+            "id": "257991",
+            "uuid": "276ba940-5934-11ea-8768-a9ddb953051d",
+            "filename": "200.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "242430",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "35463 ",
+            "city": "Fernwald-Annerod",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCY",
+            "name": "Agentur",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "2",
+            "name": "Dienstleistung",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "Universal McCann GmbH",
+            "id": "1966",
+            "logo": {
+              "id": "298946",
+              "uuid": "bf302bc0-8922-11ea-b8d9-f9efa00ea6a9",
+              "filename": "agency_um_retina.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "AGENCY",
+              "name": "Agentur",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [
+            {
+              "id": "1807",
+              "name": "Factor Eleven GmbH",
+              "accountType": {
+                "id": "AGENCYCLIENT",
+                "name": "Agenturkunde",
+                "__typename": "AccountObject"
+              },
+              "parent": {
+                "id": "1000",
+                "name": "Factor Eleven GmbH",
+                "logo": {
+                  "id": "252904",
+                  "uuid": "cc592200-54c7-11ea-8202-0f4b80c2dd28",
+                  "__typename": "Media"
+                },
+                "__typename": "Account"
+              },
+              "__typename": "Account"
+            },
+            {
+              "id": "2348",
+              "name": "Factor Eleven GmbH",
+              "accountType": {
+                "id": "AGENCYCLIENT",
+                "name": "Agenturkunde",
+                "__typename": "AccountObject"
+              },
+              "parent": {
+                "id": "1950",
+                "name": "Crossmedia GmbH",
+                "logo": {
+                  "id": "298057",
+                  "uuid": "fa35ab30-855f-11ea-bc20-cfe009190e22",
+                  "__typename": "Media"
+                },
+                "__typename": "Account"
+              },
+              "__typename": "Account"
+            }
+          ],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2347",
+          "name": "Cypress",
+          "oldNumber": null,
+          "number": "11-2347",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": "",
+          "isBookable": false,
+          "logo": {
+            "id": "343436",
+            "uuid": "69526a40-ac88-11ea-a90a-e1e436956df7",
+            "filename": "cypress.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "242428",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "35463",
+            "city": "Fernwald",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "DIRECTCLIENT",
+            "name": "Direktkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "4",
+            "name": "IT / Technologie",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "test ",
+            "id": "2411",
+            "logo": {
+              "id": "360345",
+              "uuid": "2891c190-299c-11eb-bd07-194506c78ea6",
+              "filename": "bild_comicbiene_kommentarzeile.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "AGENCYGROUP",
+              "name": "Agenturgruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2345",
+          "name": "Buhl Data Service GmbH",
+          "oldNumber": null,
+          "number": "11-2345",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "342532",
+            "uuid": "3e2951f0-aafb-11ea-90bc-91e1976038ed",
+            "filename": "1_1-logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "242173",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "57290 ",
+            "city": "Neunkirchen ",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "DIRECTCLIENT",
+            "name": "Direktkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "11",
+            "name": "Finanzen / Versicherung",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2344",
+          "name": "Clark Germany GmbH",
+          "oldNumber": null,
+          "number": "11-2344",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "342476",
+            "uuid": "993b9a60-aaee-11ea-90bc-91e1976038ed",
+            "filename": "1_1-logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "242167",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "60329 ",
+            "city": "Frankfurt am Main",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "DIRECTCLIENT",
+            "name": "Direktkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "11",
+            "name": "Finanzen / Versicherung",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2343",
+          "name": "DüsselLand",
+          "oldNumber": null,
+          "number": "11-2343",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "342357",
+            "uuid": "ead789e0-aa6e-11ea-b30c-05101afde7b4",
+            "filename": "01-duesselland-logo-2000px.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "242158",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "40474",
+            "city": "Düsseldorf",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLERCLIENT",
+            "name": "Resellerkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "8",
+            "name": "Sonstige",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "WZ Vertriebsregion Düsseldorf",
+            "id": "2339",
+            "logo": {
+              "id": "341829",
+              "uuid": "5b7cd9d0-aa3c-11ea-b320-49347ba30b8e",
+              "filename": "1200px-wz_logo.svg.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLER",
+              "name": "Reseller",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2342",
+          "name": "Durstexpress GmbH",
+          "oldNumber": null,
+          "number": "11-2342",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "342213",
+            "uuid": "940b67b0-aa5c-11ea-9f1a-b5707d3e9c2a",
+            "filename": "logo_durstexpress.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "241063",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "10245",
+            "city": "Berlin",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "DIRECTCLIENT",
+            "name": "Direktkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "2",
+            "name": "Dienstleistung",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2341",
+          "name": "anzugshop.com",
+          "oldNumber": null,
+          "number": "11-2341",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "334159",
+            "uuid": "92dc0350-a033-11ea-a7cc-196673d2ebad",
+            "filename": "logo_210x.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "241033",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "40476 ",
+            "city": "Düsseldorf",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLERCLIENT",
+            "name": "Resellerkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "10",
+            "name": "Bekleidung",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "WZ Media GmbH",
+            "id": "2064",
+            "logo": {
+              "id": "300896",
+              "uuid": "a96c0430-8adf-11ea-9caa-07c1f89618ef",
+              "filename": "1200px-wz_logo.svg.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLERGROUP",
+              "name": "Resellergruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2340",
+          "name": "WZ national",
+          "oldNumber": null,
+          "number": "11-2340",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "341830",
+            "uuid": "668a97e0-aa3c-11ea-8414-5736bf049541",
+            "filename": "wz-logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "240604",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "",
+            "city": "",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLER",
+            "name": "Reseller",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": {
+            "name": "WZ Media GmbH",
+            "id": "2064",
+            "logo": {
+              "id": "300896",
+              "uuid": "a96c0430-8adf-11ea-9caa-07c1f89618ef",
+              "filename": "1200px-wz_logo.svg.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLERGROUP",
+              "name": "Resellergruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2339",
+          "name": "WZ Vertriebsregion Düsseldorf",
+          "oldNumber": null,
+          "number": "11-2339",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "341829",
+            "uuid": "5b7cd9d0-aa3c-11ea-b320-49347ba30b8e",
+            "filename": "1200px-wz_logo.svg.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "240603",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "",
+            "city": "",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLER",
+            "name": "Reseller",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": {
+            "name": "WZ Media GmbH",
+            "id": "2064",
+            "logo": {
+              "id": "300896",
+              "uuid": "a96c0430-8adf-11ea-9caa-07c1f89618ef",
+              "filename": "1200px-wz_logo.svg.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLERGROUP",
+              "name": "Resellergruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2338",
+          "name": "WZ Vertriebsregion Krefeld",
+          "oldNumber": null,
+          "number": "11-2338",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "341827",
+            "uuid": "469c4eb0-aa3c-11ea-8414-5736bf049541",
+            "filename": "1200px-wz_logo.svg.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "240602",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "",
+            "city": "",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLER",
+            "name": "Reseller",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": {
+            "name": "WZ Media GmbH",
+            "id": "2064",
+            "logo": {
+              "id": "300896",
+              "uuid": "a96c0430-8adf-11ea-9caa-07c1f89618ef",
+              "filename": "1200px-wz_logo.svg.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLERGROUP",
+              "name": "Resellergruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2337",
+          "name": "WZ Vertriebsregion Wuppertal ",
+          "oldNumber": null,
+          "number": "11-2337",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "341824",
+            "uuid": "f29ae010-aa3b-11ea-b320-49347ba30b8e",
+            "filename": "wz-logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "240600",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "42103",
+            "city": "Wuppertal",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLER",
+            "name": "Reseller",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": {
+            "name": "WZ Media GmbH",
+            "id": "2064",
+            "logo": {
+              "id": "300896",
+              "uuid": "a96c0430-8adf-11ea-9caa-07c1f89618ef",
+              "filename": "1200px-wz_logo.svg.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLERGROUP",
+              "name": "Resellergruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2336",
+          "name": "Universal McCann GmbH",
+          "oldNumber": null,
+          "number": "11-2336",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": "DUS",
+          "isBookable": false,
+          "logo": {
+            "id": "341745",
+            "uuid": "5db812e0-aa33-11ea-b184-79a73c85d070",
+            "filename": "um-logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "240576",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "40213",
+            "city": "Düsseldorf",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCY",
+            "name": "Agentur",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2335",
+          "name": "DRTJ Organic Cosmetics GmbH",
+          "oldNumber": null,
+          "number": "11-2335",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "341704",
+            "uuid": "bd83b920-aa30-11ea-b184-79a73c85d070",
+            "filename": "1_1-logo.jpg",
+            "contentType": "image/jpeg",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "240568",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "10115 ",
+            "city": "Berlin",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "DIRECTCLIENT",
+            "name": "Direktkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "12",
+            "name": "Beauty / Kosmetik",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2334",
+          "name": "DER KREIS Einkaufsgesellschaft für Küche & Wohnen mbH & Co. KG",
+          "oldNumber": null,
+          "number": "11-2334",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "341175",
+            "uuid": "ba2d7360-a99a-11ea-b184-79a73c85d070",
+            "filename": "derkreis.jpg",
+            "contentType": "image/jpeg",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "239320",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "71229 ",
+            "city": "Leonberg",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLER",
+            "name": "Reseller",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2333",
+          "name": "GroupM Competence Center GmbH",
+          "oldNumber": "11-350",
+          "number": "11-2333",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "341035",
+            "uuid": "215c6090-a988-11ea-82d3-b737ea56501e",
+            "filename": "200.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "239286",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "40476",
+            "city": "Düsseldorf",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCY",
+            "name": "Agentur",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": {
+            "name": "GroupM Germany GmbH & Co. KG",
+            "id": "1767",
+            "logo": {
+              "id": "252896",
+              "uuid": "fe9639d0-54c5-11ea-8202-0f4b80c2dd28",
+              "filename": "groupm_hero_logo_rgb_png.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "AGENCYGROUP",
+              "name": "Agenturgruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2332",
+          "name": "eology GmbH",
+          "oldNumber": null,
+          "number": "11-2332",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "341006",
+            "uuid": "0a410800-a985-11ea-82d3-b737ea56501e",
+            "filename": "logo_quadrat.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "239279",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "97332 ",
+            "city": "Volkach",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLER",
+            "name": "Reseller",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2331",
+          "name": "Score Media Group",
+          "oldNumber": null,
+          "number": "11-2331",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": "MUC",
+          "isBookable": false,
+          "logo": {
+            "id": "340994",
+            "uuid": "fac1b470-a983-11ea-b184-79a73c85d070",
+            "filename": "scoremediagroup-logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "239278",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "81677 ",
+            "city": "München",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLER",
+            "name": "Reseller",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": {
+            "name": "Score Media Group GmbH & Co. KG",
+            "id": "2329",
+            "logo": {
+              "id": "340992",
+              "uuid": "ca622120-a983-11ea-82d3-b737ea56501e",
+              "filename": "scoremediagroup-logo.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLERGROUP",
+              "name": "Resellergruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2330",
+          "name": "Score Media Group",
+          "oldNumber": null,
+          "number": "11-2330",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": "DUS",
+          "isBookable": false,
+          "logo": {
+            "id": "340993",
+            "uuid": "e5974f10-a983-11ea-82d3-b737ea56501e",
+            "filename": "scoremediagroup-logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "239277",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "40549 ",
+            "city": "Düsseldorf",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLER",
+            "name": "Reseller",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": {
+            "name": "Score Media Group GmbH & Co. KG",
+            "id": "2329",
+            "logo": {
+              "id": "340992",
+              "uuid": "ca622120-a983-11ea-82d3-b737ea56501e",
+              "filename": "scoremediagroup-logo.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLERGROUP",
+              "name": "Resellergruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2329",
+          "name": "Score Media Group GmbH & Co. KG",
+          "oldNumber": null,
+          "number": "11-2329",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "340992",
+            "uuid": "ca622120-a983-11ea-82d3-b737ea56501e",
+            "filename": "scoremediagroup-logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "239276",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "40549 ",
+            "city": "Düsseldorf",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLERGROUP",
+            "name": "Resellergruppe",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2328",
+          "name": "Aufzugsservice Steck (Sbst. Markus Steck)",
+          "oldNumber": null,
+          "number": "11-2328",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "340855",
+            "uuid": "11b6f920-a960-11ea-82d3-b737ea56501e",
+            "filename": "1_1-logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "239221",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "46045",
+            "city": "Oberhausen",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLERCLIENT",
+            "name": "Resellerkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "2",
+            "name": "Dienstleistung",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "11880 Internet Services AG",
+            "id": "2111",
+            "logo": {
+              "id": "302737",
+              "uuid": "c5a73870-8f69-11ea-9661-411f9fce37ef",
+              "filename": "apple-touch-icon-11880.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLER",
+              "name": "Reseller",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2327",
+          "name": "Hotlinetierarzt",
+          "oldNumber": null,
+          "number": "11-2327",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "340621",
+            "uuid": "98b47510-a735-11ea-b0fd-17675bdc2e48",
+            "filename": "logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "239175",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "79379",
+            "city": "Müllheim",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLERCLIENT",
+            "name": "Resellerkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "2",
+            "name": "Dienstleistung",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "11880 Internet Services AG",
+            "id": "2111",
+            "logo": {
+              "id": "302737",
+              "uuid": "c5a73870-8f69-11ea-9661-411f9fce37ef",
+              "filename": "apple-touch-icon-11880.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLER",
+              "name": "Reseller",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2326",
+          "name": "BioBloom GmbH",
+          "oldNumber": null,
+          "number": "11-2326",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "339823",
+            "uuid": "0d784df0-a703-11ea-b0fd-17675bdc2e48",
+            "filename": "logo_biobloom_2020.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "237861",
+            "country": {
+              "id": "2",
+              "name": "Österreich",
+              "code": "AT",
+              "__typename": "Country"
+            },
+            "zip": "7143 ",
+            "city": "Apetlon",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCYCLIENT",
+            "name": "Agenturkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "12",
+            "name": "Beauty / Kosmetik",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2325",
+          "name": "Weischer.Media GmbH & Co. KG",
+          "oldNumber": null,
+          "number": "11-2325",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": "HAM",
+          "isBookable": false,
+          "logo": {
+            "id": "338680",
+            "uuid": "b6671da0-a65a-11ea-8a3a-a3e3e74bfad2",
+            "filename": "logo-weischer-media.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "237580",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "22767",
+            "city": "Hamburg",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCY",
+            "name": "Agentur",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2324",
+          "name": "Rocka Sports GmbH ",
+          "oldNumber": null,
+          "number": "11-2324",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "338377",
+            "uuid": "7e433010-a648-11ea-b0fd-17675bdc2e48",
+            "filename": "35649046_2130539467228021_850292839005814784_o.jpg",
+            "contentType": "image/jpeg",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "237259",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "10969 ",
+            "city": "Berlin ",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "DIRECTCLIENT",
+            "name": "Direktkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "3",
+            "name": "LEH / Handel",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2323",
+          "name": "TECHNOGYM GERMANY GmbH",
+          "oldNumber": null,
+          "number": "11-2323",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "338375",
+            "uuid": "5c300b10-a648-11ea-b0fd-17675bdc2e48",
+            "filename": "technogym.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "237258",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "63263 ",
+            "city": "Neu-Isenburg",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "DIRECTCLIENT",
+            "name": "Direktkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "3",
+            "name": "LEH / Handel",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2322",
+          "name": "fleur ami® GmbH ",
+          "oldNumber": null,
+          "number": "11-2322",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "337915",
+            "uuid": "0b25a9b0-a5b6-11ea-8a3a-a3e3e74bfad2",
+            "filename": "fleurami_logo.jpg",
+            "contentType": "image/jpeg",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "237069",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "47918",
+            "city": "Tönisvorst",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLERCLIENT",
+            "name": "Resellerkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "3",
+            "name": "LEH / Handel",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "WZ Media GmbH",
+            "id": "2064",
+            "logo": {
+              "id": "300896",
+              "uuid": "a96c0430-8adf-11ea-9caa-07c1f89618ef",
+              "filename": "1200px-wz_logo.svg.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLERGROUP",
+              "name": "Resellergruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2321",
+          "name": "König-Brauerei GmbH ",
+          "oldNumber": null,
+          "number": "11-2321",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "337690",
+            "uuid": "a2832e20-a5ae-11ea-9dff-dd32d7d8418c",
+            "filename": "logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "236925",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "47139",
+            "city": "Duisburg",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCYCLIENT",
+            "name": "Agenturkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "3",
+            "name": "LEH / Handel",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "Wavemaker GmbH",
+            "id": "1771",
+            "logo": {
+              "id": "253437",
+              "uuid": "74910d40-571e-11ea-9a80-89269784bdef",
+              "filename": "mec_und_maxus_werden_zu_wavemaker4_gross.jpg",
+              "contentType": "image/jpeg",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "AGENCY",
+              "name": "Agentur",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2320",
+          "name": "Stadtsparkasse Düsseldorf",
+          "oldNumber": null,
+          "number": "11-2320",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "337689",
+            "uuid": "9a14d310-a5ae-11ea-9dff-dd32d7d8418c",
+            "filename": "download.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "236924",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "40212",
+            "city": "Düsseldorf",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLERCLIENT",
+            "name": "Resellerkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "11",
+            "name": "Finanzen / Versicherung",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "WZ Media GmbH",
+            "id": "2064",
+            "logo": {
+              "id": "300896",
+              "uuid": "a96c0430-8adf-11ea-9caa-07c1f89618ef",
+              "filename": "1200px-wz_logo.svg.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLERGROUP",
+              "name": "Resellergruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2319",
+          "name": "SYZYGY Performance Marketing",
+          "oldNumber": "11-208",
+          "number": "11-2319",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": "HAM",
+          "isBookable": false,
+          "logo": {
+            "id": "337601",
+            "uuid": "5069f360-a5a1-11ea-9dff-dd32d7d8418c",
+            "filename": "syz_pm.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "236892",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "20354",
+            "city": "Hamburg",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCY",
+            "name": "Agentur",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": null,
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2318",
+          "name": "Advanzia Bank",
+          "oldNumber": null,
+          "number": "11-2318",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "337439",
+            "uuid": "ad1cae00-a4e7-11ea-b8f2-314884805268",
+            "filename": "advanzia.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "236571",
+            "country": {
+              "id": "7",
+              "name": "Luxemburg",
+              "code": "LU",
+              "__typename": "Country"
+            },
+            "zip": "5365",
+            "city": " Munsbach",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "DIRECTCLIENT",
+            "name": "Direktkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "11",
+            "name": "Finanzen / Versicherung",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2317",
+          "name": "Möbel Busch",
+          "oldNumber": null,
+          "number": "11-2317",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "337062",
+            "uuid": "f99604e0-a4d1-11ea-bed1-032c9b16f665",
+            "filename": "1_1-logo.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "236114",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "41334",
+            "city": "Nettetal-Lobberich",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLERCLIENT",
+            "name": "Resellerkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "9",
+            "name": "Möbel",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "WZ Media GmbH",
+            "id": "2064",
+            "logo": {
+              "id": "300896",
+              "uuid": "a96c0430-8adf-11ea-9caa-07c1f89618ef",
+              "filename": "1200px-wz_logo.svg.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLERGROUP",
+              "name": "Resellergruppe",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2316",
+          "name": "Fischer's Lagerhaus",
+          "oldNumber": null,
+          "number": "11-2316",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "337031",
+            "uuid": "7ae34910-a4d0-11ea-b8f2-314884805268",
+            "filename": "logo_fl.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "236110",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "47929 ",
+            "city": "Grefrath",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLERCLIENT",
+            "name": "Resellerkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "9",
+            "name": "Möbel",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2315",
+          "name": "Buttazoni GmbH",
+          "oldNumber": null,
+          "number": "11-2315",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "336695",
+            "uuid": "58b50120-a4b3-11ea-b5e0-df9452fb9119",
+            "filename": "logo-hochbeet.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "235726",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "9562",
+            "city": "Himmelberg",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "DIRECTCLIENT",
+            "name": "Direktkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "3",
+            "name": "LEH / Handel",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2314",
+          "name": "Plentific GmbH ",
+          "oldNumber": null,
+          "number": "11-2314",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "336694",
+            "uuid": "a86de610-a4b2-11ea-b604-198b60e39585",
+            "filename": "plentific.jpg",
+            "contentType": "image/jpeg",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "235725",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "10117 ",
+            "city": "Berlin",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLERCLIENT",
+            "name": "Resellerkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "2",
+            "name": "Dienstleistung",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "Nordkurier",
+            "id": "2060",
+            "logo": {
+              "id": "300892",
+              "uuid": "c923a270-8ade-11ea-9caa-07c1f89618ef",
+              "filename": "nk2.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "RESELLER",
+              "name": "Reseller",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2313",
+          "name": "T&K Event und Promotion Dienstleistungen UG ",
+          "oldNumber": null,
+          "number": "11-2313",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "335698",
+            "uuid": "62a50260-a0fe-11ea-b8ef-47e3dd206c31",
+            "filename": "protect.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "234543",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "60318 ",
+            "city": "frankfurt am Main",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "RESELLERCLIENT",
+            "name": "Resellerkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "2",
+            "name": "Dienstleistung",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": null,
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      },
+      {
+        "node": {
+          "id": "2312",
+          "name": "Häagen-Dazs (General Mills GmbH)",
+          "oldNumber": null,
+          "number": "11-2312",
+          "isSales": null,
+          "isReference": null,
+          "locationshortcut": null,
+          "isBookable": false,
+          "logo": {
+            "id": "335220",
+            "uuid": "40daf220-a0ef-11ea-b8ef-47e3dd206c31",
+            "filename": "download-1-.png",
+            "contentType": "image/png",
+            "__typename": "Media"
+          },
+          "address": {
+            "id": "234438",
+            "country": {
+              "id": "1",
+              "name": "Deutschland",
+              "code": "DE",
+              "__typename": "Country"
+            },
+            "zip": "22083",
+            "city": "Hamburg",
+            "__typename": "Address"
+          },
+          "accountType": {
+            "id": "AGENCYCLIENT",
+            "name": "Agenturkunde",
+            "deepLink": null,
+            "__typename": "AccountObject"
+          },
+          "industrySector": {
+            "id": "3",
+            "name": "LEH / Handel",
+            "__typename": "IndustrySectorType"
+          },
+          "parent": {
+            "name": "Mindshare GmbH",
+            "id": "1789",
+            "logo": {
+              "id": "253449",
+              "uuid": "cde058e0-5725-11ea-9a80-89269784bdef",
+              "filename": "45aced00-54c6-11ea-8202-0f4b80c2dd28.png",
+              "contentType": "image/png",
+              "__typename": "Media"
+            },
+            "accountType": {
+              "id": "AGENCY",
+              "name": "Agentur",
+              "__typename": "AccountObject"
+            },
+            "__typename": "Account"
+          },
+          "relatedAccounts": [],
+          "foldername": null,
+          "__typename": "Account"
+        },
+        "__typename": "AccountNode"
+      }
+    ],
+    "totalCount": 1306,
+    "__typename": "AccountEdges"
+  }
+}

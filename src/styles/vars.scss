@@ -1,0 +1,37 @@
+$paletteWhite: #FFF;
+$paletteBlack: #000;
+
+$paletteGrey90: #2E3338;
+$paletteGrey80: #73808C;
+$paletteGrey50: #A7B2BE;
+$paletteGrey30: #DFE8EC;
+$paletteGrey10: #EDEDED;
+
+$paletteGraph1: #6E2EAE;
+$paletteGraph2: #D99D29;
+$paletteGraph3: #50B12E;
+
+$paletteSuccess: #48A348;
+$paletteInfo: #3B78E7;
+$paletteWarning: #FFA500;
+$paletteError: #DC3545;
+
+$palettePrimary: #0061CC;
+
+$gap8: .8rem; // 8px in rem by base font-size of 10 px
+$gap4: $gap8 / 2; // 4px
+$gap16: $gap8 * 2; // 16px
+$gap24: $gap8 * 3; // 24px
+$gap32: $gap8 * 4; // 32px
+
+$borderRadius: $gap8;
+$borderRadius4: $gap8 / 2;
+$borderRadius12: $gap8 + ($gap8 / 2);
+$borderRadius16: $gap8 * 2;
+
+$boxShadow: 0 ($gap8 / 2) ($gap8 * 2) 0 rgba($paletteBlack, 0.25);
+
+$fontSizeText: 1.2rem;
+$fontSizeH1: 3.2rem;
+$fontSizeH2: 2.4rem;
+$fontSizeH3: 1.6rem;

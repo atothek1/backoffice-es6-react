@@ -1,0 +1,9 @@
+@import "../../../styles/index.scss";
+
+.Button {
+  &.link {
+    @include reset-input;
+    @include reset-spacing;
+    padding: $gap4 0;
+  }
+}

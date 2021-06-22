@@ -1,0 +1,24 @@
+@mixin reset-spacing {
+  margin: 0;
+  padding: 0;
+}
+@mixin reset-input {
+  appearance: none;
+  border: none;
+  background: none;
+  outline: none;
+}
+
+@mixin reset-list {
+  @include reset-spacing;
+  list-style: none;
+}
+
+@mixin reset-link {
+  color: inherit;
+  text-decoration: none;
+  &:link, &:hover, &:active, &:visited {
+    color: inherit;
+    text-decoration: none;
+  }
+}

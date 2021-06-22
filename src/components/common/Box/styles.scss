@@ -1,0 +1,26 @@
+.Box {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  
+  &.col {
+    flex-direction: column;
+  }
+
+  &.justify__center {
+    justify-content: center;
+  }
+  &.justify__space-evenly {
+    justify-content: space-evenly;
+  }
+  &.justify__space-between {
+    justify-content: space-between;
+  }
+  &.justify__flex-end {
+    justify-content: flex-end;
+  }
+
+  &.align__center {
+    align-items: center;
+  }
+}
